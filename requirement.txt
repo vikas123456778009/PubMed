@@ -1,0 +1,3 @@
+biopython
+requests_html
+pdfplumber
